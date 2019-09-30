@@ -9,3 +9,4 @@ Scrapy is superfast compared to other libraries or tools.
 
 edit input.csv to change the keywords.
 
+```scrapy crawl binger```
