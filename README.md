@@ -10,3 +10,6 @@ Scrapy is superfast compared to other libraries or tools.
 edit input.csv to change the keywords.
 
 ```scrapy crawl binger```
+
+
+It will search emails for the words given in input.csv.
